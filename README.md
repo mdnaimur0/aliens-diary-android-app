@@ -2,8 +2,8 @@
 
 Alien's Diary is a cloud-synced multimedia journal application for Android. It is designed to store and organize personal photos, videos, and audio recordings using Dropbox storage.
 
-> ⚠️ **Project Status: Work in Progress (Prototype)**
-> This project is currently in an early development phase. While the core architecture and navigation are established, many features are functional placeholders or skeletons.
+> ⚠️ **Project Status: Incomplete (Prototype)**
+> This project was originally developed in 2021 and is being hosted in 2026. It is not yet complete and is a prototype.
 
 ## 🚀 Features (Current State)
 
